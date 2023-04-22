@@ -1,7 +1,7 @@
 <html>
 <head>
 <center>
-  <h1>SctipTie</h1>
+  <h1>ScripTie</h1>
 </center>
 </head>
 </html>
